@@ -39,7 +39,7 @@ body{
 .link-option{
     text-decoration: none;
     background-image: linear-gradient(red,blue);
-    padding: 7px;
+    padding: 10px;
     color: white;
     border-radius: 15px;
 }
