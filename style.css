@@ -2,6 +2,18 @@ body{
     font-family: 'PT Sans', sans-serif;
    
 }
+.header-style{
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.text-style img{
+    width: 650px;
+    height: 450px;
+    padding: 10px;
+}
 .text-color{
     color: violet;
 }
