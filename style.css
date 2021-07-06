@@ -19,6 +19,7 @@ body{
 }
 .text-container{
     display: flex;
+    margin-bottom: 50px;
 }
 .text-header{
     font-size: 35px;
@@ -99,6 +100,11 @@ body{
  .food-world{
      text-align: center;
      margin-bottom: 10px;
+ }
+ .class-container{
+     font-size: 33px;
+     color: mediumvioletred;
+     margin-left: 10px;
  }
  footer{
      background: cornflowerblue;
