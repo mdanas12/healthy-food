@@ -26,9 +26,6 @@ body{
     font-size: 35px;
     text-transform: capitalize;
 }
-#file-create{
-    margin-top: 100px;
-}
 .paragraph-file{
     width: 50%;
     margin-left: 20px;
@@ -57,9 +54,6 @@ body{
     text-transform: capitalize;
     text-align: center;
 }
-.body-shape{
-    text-align: center;
-}
 .select-item{
     margin-bottom: 80px;
     margin-top: 70px;
@@ -81,18 +75,19 @@ body{
      
       
  }
+ #my-projects{
+     margin-right: 0%;;
+ }
  .image-file{
      width: 330px;
      height: 300px;
      border: 5px solid white;
      border-radius:15px;
  }
- #top-site{
-     margin-right: 0%;
- }
  #place-holder{
-     margin-left: 0%;
- }
+    margin-left: 0%;
+}
+
  .color-code{
      color: red;
      
@@ -105,7 +100,7 @@ body{
  .class-container{
      font-size: 33px;
      color: mediumvioletred;
-     margin-left: 10px;
+     margin-left: 20px;
  }
  footer{
      background: cornflowerblue;
