@@ -1,0 +1,55 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+.text-color{
+    color: violet;
+}
+.text-container{
+    display: flex;
+}
+.text-header{
+    font-size: 35px;
+    text-transform: capitalize;
+}
+#file-create{
+    margin-top: 100px;
+}
+.paragraph-file{
+    width: 50%;
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+.paragraph-file img{
+    width: 80%;
+}
+.link-option{
+    text-decoration: none;
+    background-image: linear-gradient(red,blue);
+    padding: 7px;
+    color: white;
+    border-radius: 15px;
+}
+.box-container{
+    display: flex;
+    background-image: url('top-banner.png');
+    background-repeat: no-repeat;
+}
+#class-item{
+    margin-top: 100px;
+}
+.text-line{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.body-shape{
+    text-align: center;
+}
+.project-file{
+    display: flex;
+}
+ .new-file{
+     width: 25%;
+     margin-left: 4%;
+     margin-right: 4%;
+ }
